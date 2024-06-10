@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy [Matias Barrera] 👋
 
-<!--
-**MatiasBarrera7291/MatiasBarrera7291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Me llamo Matias y Me gusta los jueguito de computadora y estudiar mucho tambien me gustan los animales Corta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Gustos
+
+- **Juegos:** Me encanta los juegos
+- **Deportes:** Disfruto jugar al Basquet y hacer MMA
+- **Música:** Soy un gran fan de la musica escucho todo tipo de canciones pero mi preferida es GOFUE de AgusFornite2008 y Stiffy 
+
+## Expectativas
+
+- Aprobar el año y ser jugador profesional del LOL
+
+## Gracias por visitar mi perfil!
